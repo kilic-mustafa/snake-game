@@ -26,9 +26,10 @@ A classic Snake game implemented in Python using the Turtle Graphics library. Th
     cd snake-game
 
   3) Install required libraries:
+     
     pip install pygame
 
-  4) Make sure you have the following audio files in the project directory:
+  5) Make sure you have the following audio files in the project directory:
 
     - woosh.mp3 (sound effect for eating food)
     - negative_action.mp3 (sound effect for collision with own tail)
