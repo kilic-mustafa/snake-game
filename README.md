@@ -1,5 +1,7 @@
 # Snake Game
 
+
+## Description
 A classic Snake game implemented in Python using the Turtle Graphics library. This game simulates the fundamental mechanics of the popular Snake game where you control a snake to collect food (yellow circle), grow longer, and avoid colliding with your own tail.
 
 
