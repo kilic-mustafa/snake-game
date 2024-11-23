@@ -19,7 +19,7 @@ A classic Snake game implemented in Python using the Turtle Graphics library. Th
 
   1) Clone this repository:
 
-    git clone https://github.com/your-username/snake-game.git
+    git clone https://github.com/kilic-mustafa/snake-game.git
 
   2) Navigate to the project directory:
 
@@ -44,6 +44,7 @@ A classic Snake game implemented in Python using the Turtle Graphics library. Th
 - The snake grows in length each time it eats the yellow food.
 - Avoid colliding with your own tail to keep playing.
 - The score is displayed at the top of the window, and the highest score is saved.
+
+
 ## License
 This project is licensed under the MIT License - see the        LICENSE file for details.
-
