@@ -14,6 +14,10 @@ A classic Snake game implemented in Python using the Turtle Graphics library. Th
 - Sound Effects: Includes sound effects for eating food and game-over scenarios.
 - Smooth Game Loop: The game loop updates the game state and renders the changes smoothly.
 
+## Screenshots
+
+![Ekran görüntüsü 2025-04-21 144528](https://github.com/user-attachments/assets/0ae986ec-99bc-469b-a5c8-0967dcf1c693)
+
 
 ## Installation
 
